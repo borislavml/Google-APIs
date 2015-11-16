@@ -39,3 +39,44 @@ c:\users\bhristov\documents\visual studio 2015\Projects\GmailParser\GmailParserC
 c:\users\bhristov\documents\visual studio 2015\Projects\GmailParser\GmailParserConsoleClient\bin\Debug\System.Net.Http.Primitives.xml
 c:\users\bhristov\documents\visual studio 2015\Projects\GmailParser\GmailParserConsoleClient\bin\Debug\Zlib.Portable.xml
 C:\Users\bhristov\Documents\visual studio 2015\Projects\GmailParser\GmailParserConsoleClient\obj\Debug\GmailParserConsoleClient.csprojResolveAssemblyReference.cache
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\GmailParserConsoleClient.exe.config
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\GmailParserConsoleClient.exe
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\GmailParserConsoleClient.pdb
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.Apis.Auth.dll
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.Apis.Core.dll
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.Apis.dll
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.Apis.Gmail.v1.dll
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.Apis.PlatformServices.dll
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.GData.Client.dll
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\log4net.dll
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Microsoft.Threading.Tasks.dll
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Newtonsoft.Json.dll
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\System.Net.Http.Extensions.dll
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\System.Net.Http.Primitives.dll
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Zlib.Portable.dll
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.Apis.pdb
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.Apis.xml
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.Apis.Auth.pdb
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.Apis.Auth.xml
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.Apis.Core.pdb
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.Apis.Core.xml
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.Apis.Gmail.v1.pdb
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.Apis.Gmail.v1.xml
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.Apis.PlatformServices.pdb
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Google.Apis.PlatformServices.xml
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\log4net.xml
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Microsoft.Threading.Tasks.xml
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Newtonsoft.Json.xml
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\System.Net.Http.Extensions.xml
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\System.Net.Http.Primitives.xml
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\bin\Debug\Zlib.Portable.xml
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\obj\Debug\GmailParserConsoleClient.csprojResolveAssemblyReference.cache
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\obj\Debug\GmailParserConsoleClient.exe
+E:\Git\Google-APIs\Google-APIs\GmailParser\GmailParserConsoleClient\obj\Debug\GmailParserConsoleClient.pdb
