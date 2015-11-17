@@ -23,14 +23,15 @@ namespace GmailParserConsoleClient
 
             GmailService service = gmailParser.GetGmailService();
 
-            string userId = "me";
+            string userId = "me"; // special param for identifying your email
             string query = "from:emilia@softuni.bg subject:Проверяващи на изпитни работи по MVC ASP.NET after:20150808";
+            string savePath = @"D:\gmail-inbox.txt";
+            // get all messages meeting query crteria 
             List<Message> messages = gmailParser.ListMessages(service, userId, query);
 
             foreach (var message in messages)
             {
                 Message currentMessage = gmailParser.GetMessage(service, userId, message.Id);
-
                 if (currentMessage.Payload.Parts != null && currentMessage.Payload.Parts.Count > 0)
                 {
                     foreach (var part in currentMessage.Payload.Parts)
@@ -42,7 +43,7 @@ namespace GmailParserConsoleClient
                             base64String = base64String.Replace('_', '/');
                             byte[] messageBodyData = Convert.FromBase64String(base64String);
                             string decodedMessageString = Encoding.UTF8.GetString(messageBodyData);
-                            File.AppendAllText(@"D:\gmail-inbox2.txt", decodedMessageString);
+                            File.AppendAllText(savePath, decodedMessageString);
                         }
                     }
                 }
