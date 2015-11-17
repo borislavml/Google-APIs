@@ -19,7 +19,7 @@ namespace GmailParserConsoleClient
         {
             var gmailParser = new GmailParser();
             // Run this method once to authorize your application
-            // gmailParser.AuthorizeApplication();
+            gmailParser.AuthorizeApplication();
 
             GmailService service = gmailParser.GetGmailService();
 
@@ -44,6 +44,7 @@ namespace GmailParserConsoleClient
                             byte[] messageBodyData = Convert.FromBase64String(base64String);
                             string decodedMessageString = Encoding.UTF8.GetString(messageBodyData);
                             File.AppendAllText(savePath, decodedMessageString);
+                            File.AppendAllText(@"E:\gmail-inbox2.txt", decodedMessageString);
                         }
                     }
                 }

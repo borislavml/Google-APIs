@@ -117,6 +117,7 @@
     <None Include="App.config">
       <SubType>Designer</SubType>
     </None>
+    <None Include="client_secret .json" />
     <None Include="client_secret.json" />
     <None Include="packages.config" />
   </ItemGroup>
